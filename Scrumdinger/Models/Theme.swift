@@ -1,12 +1,8 @@
-//
-//  Theme.swift
-//  Scrumdinger
-//
-//  Created by Eran Levy on 07/07/2023.
-//
+/*
+ See LICENSE folder for this sample’s licensing information.
+ */
 
 import SwiftUI
-
 
 enum Theme: String {
     case bubblegum
@@ -25,7 +21,6 @@ enum Theme: String {
     case tan
     case teal
     case yellow
-
     
     var accentColor: Color {
         switch self {
@@ -37,4 +32,3 @@ enum Theme: String {
         Color(rawValue)
     }
 }
-
