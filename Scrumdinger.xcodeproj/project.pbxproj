@@ -16,6 +16,7 @@
 		9D302B122A57DF2500835857 /* ScrumdingerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D302B112A57DF2500835857 /* ScrumdingerUITestsLaunchTests.swift */; };
 		9D302B202A57EDC700835857 /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D302B1F2A57EDC700835857 /* Theme.swift */; };
 		9D302B222A57F5D600835857 /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D302B212A57F5D600835857 /* DailyScrum.swift */; };
+		9D302B252A57F97100835857 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D302B242A57F97100835857 /* CardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		9D302B112A57DF2500835857 /* ScrumdingerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumdingerUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		9D302B1F2A57EDC700835857 /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
 		9D302B212A57F5D600835857 /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
+		9D302B242A57F97100835857 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 		9D302AF32A57DF2000835857 /* Scrumdinger */ = {
 			isa = PBXGroup;
 			children = (
+				9D302B232A57F95500835857 /* Views */,
 				9D302B1E2A57ED8F00835857 /* Models */,
 				9D302AF42A57DF2000835857 /* ScrumdingerApp.swift */,
 				9D302AF62A57DF2000835857 /* MeetingView.swift */,
@@ -139,6 +142,14 @@
 				9D302B212A57F5D600835857 /* DailyScrum.swift */,
 			);
 			path = Models;
+			sourceTree = "<group>";
+		};
+		9D302B232A57F95500835857 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				9D302B242A57F97100835857 /* CardView.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -275,6 +286,7 @@
 				9D302B202A57EDC700835857 /* Theme.swift in Sources */,
 				9D302AF72A57DF2000835857 /* MeetingView.swift in Sources */,
 				9D302AF52A57DF2000835857 /* ScrumdingerApp.swift in Sources */,
+				9D302B252A57F97100835857 /* CardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
