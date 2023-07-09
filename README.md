@@ -1,5 +1,5 @@
-# Displaying Data in a List
+# Creating a Navigation Hierarchy
 
 ## Starting Project
 
-Use this project to code along with [Displaying Data in a List](https://developer.apple.com/tutorials/app-dev-training/displaying-data-in-a-list).
+Use this project to code along with [Creating a Navigation Hierarchy](https://developer.apple.com/tutorials/app-dev-training/creating-a-navigation-hierarchy).
