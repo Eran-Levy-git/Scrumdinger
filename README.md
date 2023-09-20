@@ -1,5 +1,5 @@
-# Persisting Data
+# Handling Errors
 
-## Completed Project
+## Starting Project
 
-Explore the completed project for [Persisting Data](https://developer.apple.com/tutorials/app-dev-training/persisting-data).
+Use this project to code along with [Handling Errors](https://developer.apple.com/tutorials/app-dev-training/handling-errors).
