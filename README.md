@@ -1,5 +1,5 @@
-# Handling Errors
+# Drawing the Timer View
 
-## Completed Project
+## Starting Project
 
-Explore the completed project for [Handling Errors](https://developer.apple.com/tutorials/app-dev-training/handling-errors).
+Use this project to code along with [Drawing the Timer View](https://developer.apple.com/tutorials/app-dev-training/drawing-the-timer-view).
