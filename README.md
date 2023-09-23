@@ -1,5 +1,10 @@
-# Drawing the Timer View
+# Transcribing Speech to Text
 
-## Completed Project
+## Starting Project
 
-Explore the completed project for [Drawing the Timer View](https://developer.apple.com/tutorials/app-dev-training/drawing-the-timer-view).
+Use this project to code along with [Transcribing Speech to Text](https://developer.apple.com/tutorials/app-dev-training/transcribing-speech-to-text).
+
+## Change Log
+
+* Added a `SpeechRecognizer` class.
+
